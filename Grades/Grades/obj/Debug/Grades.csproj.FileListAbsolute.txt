@@ -1,0 +1,14 @@
+C:\Users\dmorr\OneDrive\Documents\VisualStudio Projects\Grades\Grades\bin\Debug\Grades.exe.config
+C:\Users\dmorr\OneDrive\Documents\VisualStudio Projects\Grades\Grades\bin\Debug\Grades.exe
+C:\Users\dmorr\OneDrive\Documents\VisualStudio Projects\Grades\Grades\bin\Debug\Grades.pdb
+C:\Users\dmorr\OneDrive\Documents\VisualStudio Projects\Grades\Grades\obj\Debug\Grades.csprojResolveAssemblyReference.cache
+C:\Users\dmorr\OneDrive\Documents\VisualStudio Projects\Grades\Grades\obj\Debug\Grades.csproj.CoreCompileInputs.cache
+C:\Users\dmorr\OneDrive\Documents\VisualStudio Projects\Grades\Grades\obj\Debug\Grades.exe
+C:\Users\dmorr\OneDrive\Documents\VisualStudio Projects\Grades\Grades\obj\Debug\Grades.pdb
+C:\Users\dmorr\OneDrive\Documents\Pluralsight\VisualStudio Projects\Grades\Grades\bin\Debug\Grades.exe.config
+C:\Users\dmorr\OneDrive\Documents\Pluralsight\VisualStudio Projects\Grades\Grades\bin\Debug\Grades.exe
+C:\Users\dmorr\OneDrive\Documents\Pluralsight\VisualStudio Projects\Grades\Grades\bin\Debug\Grades.pdb
+C:\Users\dmorr\OneDrive\Documents\Pluralsight\VisualStudio Projects\Grades\Grades\obj\Debug\Grades.csprojResolveAssemblyReference.cache
+C:\Users\dmorr\OneDrive\Documents\Pluralsight\VisualStudio Projects\Grades\Grades\obj\Debug\Grades.csproj.CoreCompileInputs.cache
+C:\Users\dmorr\OneDrive\Documents\Pluralsight\VisualStudio Projects\Grades\Grades\obj\Debug\Grades.exe
+C:\Users\dmorr\OneDrive\Documents\Pluralsight\VisualStudio Projects\Grades\Grades\obj\Debug\Grades.pdb
